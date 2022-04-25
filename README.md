@@ -14,12 +14,12 @@ Our goal is to use the NGC1275 containing one flaring state, post-flaring and lo
 
 Structure of the repository:
 
-*Theoretical background - Active galactic nuclei & Axion-like particle signatures in the spectra of astropyhsical sources* br<>
-*Datasets* br<>
-*Spectral analysis - MAGIC & Gammapy* <br>
-*ALPs analysis using the Gammapy* <br>
-*Statistical analysis - binned and unbinned likelihood approach* <br>
-*Results* <br>
-*Conclusions* <br>
+1.**Theoretical background** - *Active galactic nuclei & Axion-like particle signatures in the spectra of astropyhsical sources* <br>
+2.**Datasets** <br>
+3.**Spectral analysis - MAGIC & Gammapy** <br>
+4.**ALPs analysis using the Gammapy** <br>
+5.**Statistical analysis** - *binned and unbinned likelihood approach* <br>
+6.**Results** <br>
+7.**Conclusions** <br>
 
  
