@@ -11,7 +11,7 @@ For this purpose, we will be using the Gammapy, open-source package for gamma-ra
 Statistical analysis will be performed with Gammapy using two different approaches, binned and unbinned analysis, with the aim to compare their performance in the case of ALPs studies. 
 Our goal is to use the NGC1275 containing one flaring state, post-flaring and low activity state to test the values of ALPs mass and their coupling to photons, and ultimately constrain the ALPs parameter space.
 
-*Repository is currently under the construction and the paper is in the phase of the submission to the journal. Updates with the DOI and arXiv number of the article will follow once the submission is concluded and the paper is published.*
+*Repository is currently under construction and the paper is in the phase of the submission to the journal. Updates with the DOI and arXiv number of the article will follow once the submission is concluded and the paper is published.*
 
 Content of the respository:
 
