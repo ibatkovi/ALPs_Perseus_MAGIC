@@ -16,7 +16,7 @@ Our goal is to use the NGC1275 containing one flaring state, post-flaring and lo
 Content of the respository:
 
 This repository is prepared with the intention to allow the reproduction of the main results obtained in the paper. It contains:
-a) Python scripts for the calculation of the ALPs models with GammaALPs
-b) Scripts for the extraction of information from the datasets of NGC1275 by MAGIC fits files and calculation of the likelihood as explained in the article
-c) ECSV tables for creating the SED plots.
+a) Python scripts for the calculation of the ALPs models with GammaALPs./n
+b) Scripts for the extraction of information from the datasets of NGC1275 by MAGIC fits files and calculation of the likelihood as explained in the article/n
+c) ECSV tables for creating the SED plots./n
 d) Folder "Axion_Photon" containing the information on where to find a collection of previously set constraints in the ALPs parameter space, together with the constraint set in this article. 
